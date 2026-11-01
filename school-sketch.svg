@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 135" fill="none">
+ <g stroke="#9a7956" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 打开的课本 -->
+  <g transform="translate(58 28) rotate(-9 52 38)">
+   <path d="M5 13Q28 7 52 19Q75 8 100 14L98 78Q72 70 52 82Q29 72 5 77Z" fill="#f5e9d5"/>
+   <path d="M52 19V81M10 83Q34 78 52 88Q73 77 103 83M4 18L1 81"/>
+   <path d="M17 29Q30 27 41 32M17 39Q30 37 41 42M17 49Q30 47 40 52M65 30Q78 25 90 28M65 40Q78 35 90 38M65 50Q78 45 90 48" opacity=".55"/>
+  </g>
+  <!-- 两张相邻的旧课桌 -->
+  <g transform="translate(237 17) rotate(3 64 55)">
+   <path d="M4 47L31 28L132 31L111 52Z" fill="#e8d2af"/>
+   <path d="M4 47L5 56L112 60L133 39L132 31M112 52V60M55 30L42 49M42 50V58"/>
+   <path d="M13 57L10 108M51 59L51 108M102 60L108 111M128 45L132 99M12 88L50 91M106 91L131 82"/>
+   <path d="M17 65L40 66L40 75L16 74M63 66L94 67L94 77L63 76M76 70L82 70"/>
+   <path d="M43 29L54 22L76 24L66 31Z" fill="#f7eedf"/>
+   <path d="M85 24L103 25M89 20L105 22M99 23L108 15"/>
+   <path d="M-8 111Q46 109 66 113M86 116L147 113" opacity=".4"/>
+  </g>
+  <!-- 红领巾 -->
+  <g transform="translate(463 30) rotate(10 40 40)">
+   <path d="M5 7L45 25L82 3L48 52Z" fill="#b8755b" fill-opacity=".78" stroke="#a2644d"/>
+   <path d="M40 36L28 90L49 69L64 88L49 40" fill="#c3896a" fill-opacity=".8" stroke="#a2644d"/>
+   <path d="M39 34L48 31L54 41L45 47L37 42Z" fill="#a66450" stroke="#a2644d"/>
+   <path d="M45 48L40 70M52 49L57 72" stroke="#a2644d" opacity=".6"/>
+  </g>
+  <path d="M174 76Q201 58 219 76M396 72Q423 58 442 75" stroke-dasharray="2 6" opacity=".4"/>
+  <path d="M28 31L24 26M31 21L30 14M556 91L565 94M558 102L563 108" opacity=".55"/>
+ </g>
+</svg>
